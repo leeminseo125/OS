@@ -1,0 +1,25 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+fork_demo
+exec_demo
+thread_demo
+pipe_oneway
+pipe_twoway
+race_condition
+semaphore_fix
+deadlock_demo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Build
+build/
+dist/
